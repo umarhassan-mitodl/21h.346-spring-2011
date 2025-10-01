@@ -1,0 +1,39 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: b4c54936-002a-de3d-21cd-4e80a7e3c267
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 3726da21-1fd8-795a-a71c-36915b42f50c
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: def83507-de3a-dc68-bc43-d95e57776e1a
+  name: Lecture Images
+  pageRef: /pages/lecture-images
+  weight: 30
+- identifier: bd747456-7848-59eb-493a-5a8c10930768
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 56756e8c-8972-8414-3e94-f3b1f9b01859
+  name: The First Paper
+  pageRef: /pages/assignments/the-first-paper
+  parent: bd747456-7848-59eb-493a-5a8c10930768
+  weight: 50
+- identifier: 46e5b1dc-c325-b515-0b1a-0e7a6181c533
+  name: The Second Paper
+  pageRef: /pages/assignments/the-second-paper
+  parent: bd747456-7848-59eb-493a-5a8c10930768
+  weight: 60
+- identifier: 32a5212a-4be3-212c-acbd-61aa8be58d6c
+  name: The Third Paper
+  pageRef: /pages/assignments/the-third-paper
+  parent: bd747456-7848-59eb-493a-5a8c10930768
+  weight: 70
+- identifier: 98e79356-5564-7d3e-aa94-b7e98fec4e0e
+  name: The Final Paper
+  pageRef: /pages/assignments/the-final-paper
+  parent: bd747456-7848-59eb-493a-5a8c10930768
+  weight: 80
