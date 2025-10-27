@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the lecture notes used in some of the sessions
   of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lecture Images

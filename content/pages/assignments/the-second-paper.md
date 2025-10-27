@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides topics for a writing assignment.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -16,7 +14,7 @@ uid: 46e5b1dc-c325-b515-0b1a-0e7a6181c533
 Topics
 ------
 
-1.  Analyze one of the _Encyclopédie_ articles from the following list. What might have been controversial about this article for eighteenth-century readers? (English translations of these articles are at [http://quod.lib.umich.edu/d/did/](http://quod.lib.umich.edu/d/did/).)
+1.  Analyze one of the _Encyclopédie_ articles from the following list. What might have been controversial about this article for eighteenth-century readers? (English translations of these articles are at {{% resource_link "42d0d516-a2d3-4696-87f2-f95be2d826d9" "http://quod.lib.umich.edu/d/did/" %}}.)
     *   History
     *   Intolerance
     *   Jesuit
